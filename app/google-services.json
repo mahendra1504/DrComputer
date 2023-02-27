@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844966694473",
+    "project_id": "dr-computer-45159",
+    "storage_bucket": "dr-computer-45159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844966694473:android:4b00e001617831428ff998",
+        "android_client_info": {
+          "package_name": "com.example.drcomputer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844966694473-q5agjr3c1tq3pth26hs9hekcapg050iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgLAYNmnOf33eDB6b7T6LaP3XmhyWQV7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844966694473-q5agjr3c1tq3pth26hs9hekcapg050iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

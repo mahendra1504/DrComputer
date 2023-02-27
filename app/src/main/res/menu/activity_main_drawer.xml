@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_dr_computer"
+            android:icon="@drawable/ic_dr_computer"
+            android:title="Online PC Store" />
+
+        <item
+            android:id="@+id/nav_my_orders"
+            android:icon="@drawable/ic_my_orders"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_my_address"
+            android:icon="@drawable/my_address"
+            android:title="My Address" />
+        <item
+            android:id="@+id/nav_my_cart"
+            android:icon="@drawable/ic_black_shopping_cart"
+            android:title="My Cart" />
+        <item
+            android:id="@+id/nav_my_wishlist"
+            android:icon="@drawable/ic_wishlist"
+            android:title="My Wishlist"/>
+        <item
+            android:id="@+id/nav_my_account"
+            android:title="My Account"
+            android:icon="@drawable/ic_my_account"/>
+
+    </group>
+
+    <item
+        android:id="@+id/nav_sign_out"
+        android:title="Sign Out"
+        android:icon="@drawable/ic_sign_out"/>
+
+</menu>
